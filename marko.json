@@ -1,0 +1,9 @@
+{
+    "<on>": {
+        "transformer":"./src/transformer.js",
+        "renderer":"./src/renderer.js",
+        "vars": [{
+            "name-from-attribute": "_varName"
+        }]
+    }
+}
